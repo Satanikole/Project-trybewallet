@@ -1,0 +1,19 @@
+.expense-table {
+    background: rgba(255, 255, 255, 0.39);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    height: 100vh;
+    width: 70vw;
+    padding-top: 20px;
+    margin-left: 100px;
+}
+
+.table-head {
+    background-color: #5dd39e;
+}
+
+.table-body {
+    background-color: #99d98c;
+}
