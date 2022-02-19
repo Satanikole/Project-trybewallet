@@ -6,6 +6,8 @@ Newbie developer mistakes (╥_╥)
 
 ---
 
+## You can check the deployed site [Here](https://trybewallet-satanik.netlify.app/)
+
 
 # Special Thanks
 
